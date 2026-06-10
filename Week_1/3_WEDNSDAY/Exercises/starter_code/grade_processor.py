@@ -49,7 +49,7 @@ def grade_processor(scores):
     for score in enumerate(scores):
         Break_For_Bool = False
 
-        if(score==-999):
+        if(score[1]==-999):
             Break_For_Bool = True
             break
 
