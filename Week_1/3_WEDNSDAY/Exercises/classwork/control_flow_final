@@ -61,3 +61,28 @@ while (index<len(tests)):
     print(tests[index].upper())
     index = index + 1
 
+
+numbers = [4, 5, 7, 2, -5, 9, -2, 5, -3, 1, 0, 8]
+
+# for number in numbers:
+#     match number:
+#         case number if (number<0):
+#             print("A")
+#             print(f"{number}")
+#             # continue
+#         case number if (number>0):
+#             print(f"{number}")
+#         case number if (number==0):
+#             break
+#         # case _:
+#         #     continue
+
+
+
+# for number in numbers:
+#     if (number>0):
+#         print(f"{number}")
+#     elif (number<0):
+#         print(f"Skipping : {number}")
+#     if (number==0):
+#         break
