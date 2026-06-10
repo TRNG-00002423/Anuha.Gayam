@@ -33,3 +33,22 @@ ids.clear()
 
 print(" ")
 print(" ")
+
+
+fruits={"apple", "banana", "mango", "carrot"}
+veggies={"cabbage","carrot","lettuce"}
+
+fruits_and_veggies=fruits.union(veggies)            # Union
+print(fruits_and_veggies)
+
+
+fruits_or_veggies = fruits.intersection(veggies)    # Intersection
+
+print(" ")
+print(" ")
+
+
+print(fruits_or_veggies)
+
+print(" ")
+print(" ")
