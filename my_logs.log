@@ -1,0 +1,4 @@
+12:08:18 | DEBUG     | This is a DEBUG message
+12:08:18 | INFO      | This is an INFO message
+12:08:18 | WARNING   | This is Warning message
+12:08:18 | ERROR     | This is an Error Message
